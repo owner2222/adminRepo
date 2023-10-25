@@ -1,2 +1,2 @@
 # adminRepo
-you have one collaborator now
+you have one collaborator n
